@@ -2,6 +2,7 @@ import pytest
 
 
 def always_returns_true():
+    #Hello, this comment should give a merge conflict.
     return False
 
 
